@@ -1,0 +1,16 @@
+@startuml
+'https://plantuml.com/use-case-diagram
+/'actor Utilizator
+Utilizator-->(afisare formular de login pentru autentificare)
+(afisare formular de login pentru autentificare)-->(conectare pagina web)
+(conectare pagina web)-->(afisare pagina principala)'/
+
+actor Utilizator
+Utilizator-->(acceseaza pagina web)
+(acceseaza pagina web)-->(aplicatia va deschide fereastra home)
+
+Utilizator-->(apasa butonul de adaugare)
+(apasa butonul de adaugare)-->(se afiseaza o fereastra cu doua optiuni \n creaza un playlist nou si adaugare unei piese intr-un playlist favorit )
+Utilizator-->(apasa pe obtiunea creaza playlist)
+(apasa pe obtiunea creaza playlist)-->(aplicatia afiseaza o fereastra creare playlist)
+@enduml
