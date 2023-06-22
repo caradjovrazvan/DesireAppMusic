@@ -7,7 +7,8 @@ Utilizator-->(afisare formular de login pentru autentificare)
 
 actor Utilizator
 Utilizator-->(acceseaza pagina web)
-(acceseaza pagina web)-->(aplicatia va deschide fereastra home)
+(acceseaza pagina web)-->(aplicatia va deschide fereastra home care)
+(acceseaza pagina web)-->(se va afisa ceva)
 
 Utilizator-->(apasa butonul de adaugare)
 (apasa butonul de adaugare)-->(se afiseaza o fereastra cu doua optiuni \n creaza un playlist nou si adaugare unei piese intr-un playlist favorit )
