@@ -14,4 +14,10 @@ Utilizator-->(apasa butonul de adaugare)
 (apasa butonul de adaugare)-->(se afiseaza o fereastra cu doua optiuni \n creaza un playlist nou si adaugare unei piese intr-un playlist favorit )
 Utilizator-->(apasa pe obtiunea creaza playlist)
 (apasa pe obtiunea creaza playlist)-->(aplicatia afiseaza o fereastra creare playlist)
+(se afiseaza o fereastra cu doua optiuni \n creaza un playlist nou si adaugare unei piese intr-un playlist favorit )-->(va da click pe chenarul specific al genului muzical)
+Utilizator-->(aplicatia il va directiona catre fereastra home)
+(aplicatia il va directiona catre fereastra home)-->(se va afisa o zona de intruducere al genului mzuical)
+(se va afisa o zona de intruducere al genului mzuical)-->(vor fi sugerate diverse sugestii)
+
+
 @enduml
